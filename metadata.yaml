@@ -1,10 +1,13 @@
 _repo: The-Victory-of-Klon_61943
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lynch, Don (Artist)
     gutenberg_agent_id: '51621'
     url: http://www.gutenberg.org/2009/agents/51621
+covers:
+- cover_type: archival
+  image_path: 61943-h/images/cover.jpg
 creator:
   author:
     agent_name: Peacock, Wilbur S.
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '51691'
     url: http://www.gutenberg.org/2009/agents/51691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61943#The-Victory-of-Klon
 gutenberg_issued: '2020-04-26'
 gutenberg_type: Text
 identifiers:
